@@ -1,0 +1,4 @@
+repository "Escape_Room-CVRI_Jam24@Team_Crow24@cloud"
+  path "/"
+    br "/main"
+    co "/main"
